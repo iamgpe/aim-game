@@ -3,7 +3,6 @@
 Un mini jeu réalisé sous demande d'une entreprise pour un test.
 
 > ### Consigne
-> ------
 > 
 > Construisez une page web avec Vuejs (et toute autre bibliothèque), l'utilisateur voit 5 cercles apparaître aléatoirement sur l'écran. Les règles sont très simples :
 > 
